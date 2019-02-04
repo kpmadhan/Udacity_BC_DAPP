@@ -140,7 +140,7 @@ Contract Address: [**0x1545772b309944d09b6e71c49bda7978447340ff**](https://rinke
 call the lookUptokenIdToStarInfo from the contract and update the label async.
 
 
-## Modify the front end of the DAPP to lookup the star
+## Token Details and Development tool versions
 
 ERC 721 - Token Name: [**Star Token Udacity**](https://rinkeby.etherscan.io/token/0x1545772b309944d09b6e71c49bda7978447340ff)  
 ERC 721 - Token Symbol: **STU**  
